@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  "extends": ["airbnb", "./base"],
+  "extends": ["airbnb", "koba04/base"],
 };

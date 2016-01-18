@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  "extends": ["airbnb/legacy", "./base"],
+  "extends": ["airbnb/legacy", "koba04/base"],
 };
