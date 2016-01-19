@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-koba04",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "An ESLint configuration for koba04",
   "main": "index.js",
   "scripts": {
@@ -19,11 +19,9 @@
     "url": "https://github.com/koba04/eslint-config-koba04/issues"
   },
   "homepage": "https://github.com/koba04/eslint-config-koba04#readme",
-  "dependencies": {
+  "devDependencies": {
+    "eslint": "^1.10.3",
     "eslint-config-airbnb": "^3.1.0",
     "eslint-plugin-react": "^3.15.0"
-  },
-  "devDependencies": {
-    "eslint": "^1.10.3"
   }
 }
