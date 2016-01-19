@@ -3,7 +3,7 @@
 An ESLint configuration for koba04, which is based [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 
 ```
-npm install --save-dev eslint-config-koba04 eslint-config-airbnb eslint-plugin-react
+npm install --save-dev eslint-config-koba04 eslint
 ```
 
 Added this in your `.eslintrc`
