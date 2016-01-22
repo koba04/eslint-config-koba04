@@ -10,6 +10,7 @@ module.exports = {
     indent: [2, 2, {SwitchCase: 1}],
     'no-alert': 0,
     'no-console': 0,
+    'no-param-reassign': [2, {props: false}],
     'no-unused-vars': [2, {args: 'none'}],
     'object-curly-spacing': [2, 'never'],
   },
