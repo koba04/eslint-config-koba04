@@ -20,13 +20,13 @@
   },
   "homepage": "https://github.com/koba04/eslint-config-koba04#readme",
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^3.1.0",
-    "eslint-plugin-react": "^3.15.0"
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "eslint-plugin-react": "^4.2.1"
   },
   "peerDependencies": {
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^3.1.0",
-    "eslint-plugin-react": "^3.15.0"
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "eslint-plugin-react": "^4.2.1"
   }
 }
