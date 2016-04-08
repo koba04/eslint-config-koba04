@@ -2,7 +2,7 @@
 
 module.exports = {
   env: {
-    mocha: true,
+    mocha: true
   },
   rules: {
     camelcase: 0,
@@ -12,6 +12,6 @@ module.exports = {
     'no-console': 0,
     'no-param-reassign': [2, {props: false}],
     'no-unused-vars': [2, {args: 'none'}],
-    'object-curly-spacing': [2, 'never'],
-  },
+    'object-curly-spacing': [2, 'never']
+  }
 };

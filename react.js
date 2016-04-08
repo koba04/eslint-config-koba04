@@ -7,8 +7,8 @@ module.exports = {
       {
         ignoreRefs: true,
         allowArrowFunctions: true,
-        allowBind: false,
-      },
-    ],
-  },
+        allowBind: false
+      }
+    ]
+  }
 };
