@@ -1,5 +1,17 @@
 # CHANGELOG
 
+### 3.0.0 (2016/05/20)
+
+* Update dependencies
+
+```
+"eslint": "^2.10.2",
+"eslint-config-airbnb": "^9.0.1",
+"eslint-plugin-import": "^1.8.0",
+"eslint-plugin-jsx-a11y": "^1.2.1",
+"eslint-plugin-react": "^5.1.1"
+```
+
 ### 2.1.0 (2016/04/08)
 
 * Add `react/jsx-no-bind`
