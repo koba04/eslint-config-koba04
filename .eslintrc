@@ -1,3 +1,9 @@
 {
-    extends: "koba04/es5"
+    "extends": "./index.js",
+    "parserOptions": {
+        "sourceType": "script"
+    },
+    "rules": {
+        "strict": 0
+    }
 }
