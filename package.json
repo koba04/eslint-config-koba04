@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-koba04",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "An ESLint configuration for koba04",
   "main": "index.js",
   "scripts": {
