@@ -1,5 +1,19 @@
 # CHANGELOG
 
+### 4.0.0 (2016/11/08)
+
+* Update dependencies
+
+```
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.6.0"
+```
+
+* Remove a rule for ES5
+
 ### 3.0.0 (2016/05/20)
 
 * Update dependencies

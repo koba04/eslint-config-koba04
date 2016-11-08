@@ -14,10 +14,3 @@ Added this in your `.eslintrc`
 }
 ```
 
-If you write ES5 code, you can use `koba04/es5`.
-
-```json
-{
-    "extends": "koba04/es5"
-}
-```
