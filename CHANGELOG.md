@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 4.1.0 (2016/11/08)
+
+* Disabled `no-plusplus` & `import/prefer-default-export`
+
 ### 4.0.0 (2016/11/08)
 
 * Update dependencies
