@@ -2,16 +2,16 @@
 
 module.exports = {
   rules: {
-    'jsx-a11y/no-static-element-interactions': 1,
-    'react/forbid-prop-types': 0,
+    'jsx-a11y/no-static-element-interactions': 'warn',
+    'react/forbid-prop-types': 'off',
     'react/jsx-no-bind': [
-      2,
+      'error',
       {
         ignoreRefs: true,
         allowArrowFunctions: true,
         allowBind: false,
       },
     ],
-    'react/jsx-filename-extension': 0,
+    'react/jsx-filename-extension': 'off',
   },
 };
