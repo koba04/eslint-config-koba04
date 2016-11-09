@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 4.2.0 (2016/11/09)
+
+* Makes rules loosely
+
 ### 4.1.0 (2016/11/08)
 
 * Disabled `no-plusplus` & `import/prefer-default-export`
