@@ -22,6 +22,6 @@ module.exports = {
     'no-unused-vars': ['error', {args: 'none'}],
     'object-curly-spacing': ['error', 'never'],
     'import/prefer-default-export': 'off',
-    "import/no-extraneous-dependencies": 'off',
+    'import/no-extraneous-dependencies': 'off',
   },
 };
